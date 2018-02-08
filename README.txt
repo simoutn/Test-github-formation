@@ -4,3 +4,4 @@ cela permet de :
 - connaitre les dernières modifications qui ont été faite , la date et le titre
 - vous pouvez collaborer avec d'autres développeurs 
 - vous pouvez télécharger les codes sources gratuit d'autres personnes ou sociétés
+- vous pouvez restaurer votre code et fichier a la date voulu
